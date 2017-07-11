@@ -1,0 +1,9 @@
+Download the jar file TrieImplementations-0.0.1-SNAPSHOT.jar from the repository.
+
+Using the command line, move to the directory containing the afformentioned jar file.
+
+Execute the below command:
+java -jar TrieImplementations-0.0.1-SNAPSHOT.jar
+
+
+The "GUI" will then prompt you based on the 3 operations
