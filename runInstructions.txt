@@ -1,4 +1,4 @@
-Download the jar file TrieImplementations-0.0.1-SNAPSHOT.jar from the repository.
+Download the jar file TrieImplementations-0.0.1-SNAPSHOT.jar from the target directory in the repository.
 
 Using the command line, move to the directory containing the afformentioned jar file.
 
